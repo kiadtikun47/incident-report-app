@@ -1,0 +1,28 @@
+# Ignore node_modules from React project
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+
+# Ignore TypeScript cache
+/frontend/dist/
+/frontend/*.tsbuildinfo
+
+# Ignore Go build files
+/backend/bin/
+/backend/obj/
+/backend/*.exe
+/backend/*.out
+
+# Ignore SQLite database file
+/backend/incidents.db
+
+# Ignore Go workspace files
+/backend/go.sum
+/backend/go.work
+/backend/go.work.sum
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
