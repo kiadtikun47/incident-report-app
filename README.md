@@ -5,7 +5,7 @@ This project was completed as part of the internship technical test for Connecte
 
 ---
 
-## 🧩 Features
+##  Features
 
 - ✅ View all incident reports
 - ✅ Create new incident
@@ -20,14 +20,14 @@ This project was completed as part of the internship technical test for Connecte
 
 ## 🛠 Tech Stack
 
-### 📦 Backend
+###  Backend
 
 - Go (Golang)
 - Gin Gonic Framework
 - GORM ORM
 - SQLite
 
-### 🎨 Frontend
+###  Frontend
 
 - React
 - TypeScript
@@ -36,7 +36,7 @@ This project was completed as part of the internship technical test for Connecte
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
