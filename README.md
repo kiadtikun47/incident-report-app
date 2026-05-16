@@ -18,7 +18,7 @@ This project was completed as part of the internship technical test for Connecte
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ###  Backend
 
