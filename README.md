@@ -6,14 +6,14 @@ This project is a full-stack incident management application developed using Go 
 
 ##  Features
 
-- ✅ View all incident reports
-- ✅ Create new incident
-- ✅ Edit existing incident
-- ✅ Delete incident
-- ✅ Track category & status (Open, In Progress, Success)
-- ✅ Clean and simple UI (Card-style)
-- ✅ Full RESTful API using Go (Gin + GORM + SQLite)
-- ✅ Frontend built with React + TypeScript
+-  View all incident reports
+-  Create new incident
+-  Edit existing incident
+-  Delete incident
+-  Track category & status (Open, In Progress, Success)
+-  Clean and simple UI (Card-style)
+-  Full RESTful API using Go (Gin + GORM + SQLite)
+-  Frontend built with React + TypeScript
 
 ---
 
