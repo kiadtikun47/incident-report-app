@@ -1,7 +1,6 @@
 # Incident Report App
 
-A full-stack web application built for reporting and managing incidents.  
-This project was completed as part of the internship technical test for Connected Tech.
+This project is a full-stack incident management application developed using Go (Gin) and React + TypeScript, focusing on RESTful API design and modern frontend architecture.
 
 ---
 
